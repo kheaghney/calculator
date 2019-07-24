@@ -1,4 +1,4 @@
 # calculator
-Created a basic calculator 
+Created a basic calculator <br>
 ------------How To View---------------
-Download the Respository and then open the file index.html in your browser of choice. 
+Download a the Zip file and then open the file index.html in your browser of choice. 
